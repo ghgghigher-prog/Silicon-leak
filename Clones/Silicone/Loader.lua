@@ -15,4 +15,3 @@ local LoaderUrl = Games[game.PlaceId]
 if LoaderUrl then
     loadstring(game:HttpGet(LoaderUrl))()
 end
-print("CRACKED BY SIGMA X CORD X ACHE")
