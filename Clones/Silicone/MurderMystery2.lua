@@ -1,4 +1,4 @@
-local Silicon = loadstring(game:HttpGet("https://api.siliconxploits.xyz/notify"))()
+local Silicon = loadstring(game:HttpGet("https://raw.githubusercontent.com/ghgghigher-prog/Silicon-leak/main/Clones/Silicone/SiliconeNotify.lua"))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Anti-Kick/main/Anti-Kick.lua"))()
 
@@ -14,7 +14,7 @@ for _, gui in ipairs(parentGui:GetChildren()) do
     end
 end
 
-local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
+local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/ghgghigher-prog/Silicon-leak/main/Clones/Silicone/RayfieldUD.lua"))()
 local Window = WindUI:CreateWindow({
     Title = "Silicon for Murder Mystery 2",
     Author = "by 5xy",

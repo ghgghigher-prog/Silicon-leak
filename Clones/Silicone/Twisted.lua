@@ -1,4 +1,4 @@
-local Silicon = loadstring(game:HttpGet("https://api.siliconxploits.xyz/notify"))()
+local Silicon = loadstring(game:HttpGet("https://raw.githubusercontent.com/ghgghigher-prog/Silicon-leak/main/Clones/Silicone/SiliconeNotify.lua"))()
 
 local coreGui = game:GetService("CoreGui")
 local ui = coreGui:FindFirstChild("SiliconUI")
@@ -7,7 +7,7 @@ if ui then
     ui:Destroy()
 end
 
-local SiliconUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/sxytdi/Silicon/refs/heads/main/UI/SiliconUI/main.lua"))()
+local SiliconUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/ghgghigher-prog/Silicon-leak/main/Clones/Silicone/RayfieldUD.lua"))()
 
 local Window = SiliconUI:CreateWindow({
     Name            = "Silicon for Twisted",

@@ -1,6 +1,6 @@
-local Silicon = loadstring(game:HttpGet("https://api.siliconxploits.xyz/notify"))()
+local Silicon = loadstring(game:HttpGet("https://raw.githubusercontent.com/ghgghigher-prog/Silicon-leak/main/Clones/Silicone/SiliconeNotify.lua"))()
 
-local Rayfield = loadstring(game:HttpGet("https://api.siliconxploits.xyz/rayfield"))()
+local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/ghgghigher-prog/Silicon-leak/main/Clones/Silicone/RayfieldUD.lua"))()
 local Window = Rayfield:CreateWindow({
     Name = "Silicon for Arsenal",
     Icon = 124780615486303,
